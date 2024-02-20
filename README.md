@@ -10,11 +10,12 @@ Spotify Music Search is a web application built using Django that allows users t
 ## Credentials
 <b>Superuser</b><br> username: admin <br>
 password:admin<br>
-<b>testuser</b><br> username:demo33 <br>
+<b>testuser 1 </b><br> username:demo33 <br>
 password: Demodemo33 <br>
-<b>testuser</b><br> username:raju22 <br>
+<b>testuser 2 </b><br> username:raju22 <br>
 password: Demodemo33 <br>
-
+<b>testuser 3 </b><br> username:x <br>
+password: Demodemo33 <br>
 
 ## Usage
 Sign up for a new account or log in if you already have one.<br>
