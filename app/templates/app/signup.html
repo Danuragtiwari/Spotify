@@ -67,6 +67,9 @@
         a:hover {
             text-decoration: underline;
         }
+        .messages {
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -83,6 +86,12 @@
         <input type="password" id="password2" name="password2" required>
         <button type="submit">Sign Up</button>
     </form>
+    <div class="messages">
+        {% for message in messages %}
+            <h4>{{ message }}</h4>
+
+        {% endfor %}
+    </div><br>
     <p>Already have an account? <a href="{% url 'login' %}">Login</a></p>
 </body>
 </html>
