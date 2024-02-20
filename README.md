@@ -22,19 +22,22 @@ Use the search bar to search for albums or artists on Spotify.<br>
 Mark your favorite albums and artists by clicking the "Favorite" button.<br>
 Log out of your account when you're done.<br>
 
-## Login Page
+## Login Page<br>
 ![Screenshot (2)](https://github.com/Danuragtiwari/Spotify/assets/86867000/5bb44239-4fb1-4fc9-9098-1e6adf82fc97)
 
-## Signup page
+## Signup page<br>
 
 ![Screenshot (7)](https://github.com/Danuragtiwari/Spotify/assets/86867000/5dca9ae3-0a1d-4ea8-86f0-6abf94a8bc7f)
-## Search Page
+## Search Page<br>
 
-1 ![Screenshot (3)](https://github.com/Danuragtiwari/Spotify/assets/86867000/e2c7547d-3797-4ffc-9aee-ceeed1e0ea16)
-2 ![Screenshot (4)](https://github.com/Danuragtiwari/Spotify/assets/86867000/2a6fb058-5bb5-47ed-b686-5aa59ddb142b)
-3 ![Screenshot (5)](https://github.com/Danuragtiwari/Spotify/assets/86867000/3848d447-20e7-4192-b21f-3d39ab666c02)
+Search based upon the album/song or the artists <br><br><br><br>
+![Screenshot (3)](https://github.com/Danuragtiwari/Spotify/assets/86867000/e2c7547d-3797-4ffc-9aee-ceeed1e0ea16)<br><br><br><br>
+Fetched all the searched items and clicked on favourite to save <br><br><br><br>
+![Screenshot (4)](https://github.com/Danuragtiwari/Spotify/assets/86867000/2a6fb058-5bb5-47ed-b686-5aa59ddb142b)<br><br><br><br>
+Click on logout <br><br><br><br>
+![Screenshot (5)](https://github.com/Danuragtiwari/Spotify/assets/86867000/3848d447-20e7-4192-b21f-3d39ab666c02)<br><br><br><br>
 
-## logout Page
+## logout Page<br>
 ![Screenshot (6)](https://github.com/Danuragtiwari/Spotify/assets/86867000/9a135662-8ba0-450c-9d29-916f5ff227a4)
 
 
