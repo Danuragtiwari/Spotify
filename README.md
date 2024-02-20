@@ -37,10 +37,12 @@ Fetched all the searched items and clicked on favourite to save <br><br><br><br>
 Click on logout <br><br><br><br>
 ![Screenshot (5)](https://github.com/Danuragtiwari/Spotify/assets/86867000/3848d447-20e7-4192-b21f-3d39ab666c02)<br><br><br><br>
 
-## logout Page<br>
+## logout Page <br><br><br><br>
 ![Screenshot (6)](https://github.com/Danuragtiwari/Spotify/assets/86867000/9a135662-8ba0-450c-9d29-916f5ff227a4)
 
+# Supports<br>
 
+### If you find this project helpful, please consider giving it a star on GitHub.You can also connect with me on [Linkedin](https://www.linkedin.com/in/danurag23) for further discussions and support.
 
 
 
